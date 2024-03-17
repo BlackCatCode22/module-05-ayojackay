@@ -9,4 +9,4 @@ for line in hand:
     num = float(stuff[0])
     numlist.append(num)
 
-print('Maximum: ', numlist)
+print('Maximum: ', max(numlist))
